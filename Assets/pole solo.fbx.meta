@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b6fe7aa4ab1bcf24fa88007fd5fd1bb5
+timeCreated: 1525107332
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BASE
+    100002: HARDBACKUP
+    100004: Hardware
+    100006: Pegs
+    100008: pegs_0
+    100010: pegs_0_2
+    100012: pegs_1
+    100014: pegs_1_2
+    100016: Pegs_2
+    100018: pegs_2
+    100020: pegs_2_2
+    100022: pegs_3
+    100024: pegs_3_2
+    100026: POLE
+    100028: pole
+    100030: //RootNode
+    100032: Symmetry
+    100034: Symmetry_2
+    100036: W1
+    100038: W2
+    100040: W3
+    100042: W4
+    100044: WHEELBACKUP
+    100046: wheels_Array
+    400000: BASE
+    400002: HARDBACKUP
+    400004: Hardware
+    400006: Pegs
+    400008: pegs_0
+    400010: pegs_0_2
+    400012: pegs_1
+    400014: pegs_1_2
+    400016: Pegs_2
+    400018: pegs_2
+    400020: pegs_2_2
+    400022: pegs_3
+    400024: pegs_3_2
+    400026: POLE
+    400028: pole
+    400030: //RootNode
+    400032: Symmetry
+    400034: Symmetry_2
+    400036: W1
+    400038: W2
+    400040: W3
+    400042: W4
+    400044: WHEELBACKUP
+    400046: wheels_Array
+    2100000: No Name
+    2300000: BASE
+    2300002: Hardware
+    2300004: pegs_0
+    2300006: pegs_0_2
+    2300008: pegs_1
+    2300010: pegs_1_2
+    2300012: pegs_2
+    2300014: pegs_2_2
+    2300016: pegs_3
+    2300018: pegs_3_2
+    2300020: POLE
+    2300022: pole
+    2300024: W1
+    2300026: W2
+    2300028: W3
+    2300030: W4
+    2300032: wheels_Array
+    3300000: BASE
+    3300002: Hardware
+    3300004: pegs_0
+    3300006: pegs_0_2
+    3300008: pegs_1
+    3300010: pegs_1_2
+    3300012: pegs_2
+    3300014: pegs_2_2
+    3300016: pegs_3
+    3300018: pegs_3_2
+    3300020: POLE
+    3300022: pole
+    3300024: W1
+    3300026: W2
+    3300028: W3
+    3300030: W4
+    3300032: wheels_Array
+    4300000: W4
+    4300002: W3
+    4300004: W2
+    4300006: W1
+    4300008: Hardware
+    4300010: pegs_0
+    4300012: pegs_1
+    4300014: pegs_2
+    4300016: pegs_3
+    4300018: BASE
+    4300020: POLE
+    4300022: pegs_0_2
+    4300024: pegs_1_2
+    4300026: pegs_2_2
+    4300028: pegs_3_2
+    4300030: pole
+    4300032: wheels_Array
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
